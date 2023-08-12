@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+.form {
+  max-width: 300px;
+  margin: 0 auto;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+body {
+  background-color: white;
+}
